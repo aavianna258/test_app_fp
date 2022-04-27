@@ -50,7 +50,9 @@
             "python": {}
         },
         "filename": "main.py",
-        "func": "customfunc"
+        "func": "customfunc",
+        "stop_on_failure": false,
+        "timeout": "2h"
     },
     "tags": {
         "path": "",

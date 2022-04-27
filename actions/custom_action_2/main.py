@@ -5,7 +5,7 @@ logger = logging.getLogger(__name__)
 
 
 def customfunc(event):
-
+    print('something')
     logger.info("Begin function customfunc")
     # do your code here
 
